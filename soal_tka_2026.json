@@ -1,0 +1,702 @@
+[
+  {
+    "id": 1,
+    "category": "Kewirausahaan & Projek Kreatif",
+    "question": "Sebuah usaha minuman kekinian memiliki biaya tetap sebesar Rp4.000.000,00 per bulan. Biaya variabel per cup adalah Rp6.000,00 dan harga jual ditetapkan Rp16.000,00 per cup. Jumlah unit minimum yang harus dijual agar usaha tidak mengalami kerugian adalah…",
+    "options": {
+      "A": "250 cup",
+      "B": "300 cup",
+      "C": "400 cup",
+      "D": "500 cup",
+      "E": "667 cup"
+    },
+    "answer": "C",
+    "explanation": "BEP (unit) = Biaya Tetap / (Harga Jual per Unit - Biaya Variabel per Unit) = 4.000.000 / (16.000 - 6.000) = 4.000.000 / 10.000 = 400 cup."
+  },
+  {
+    "id": 2,
+    "category": "Kewirausahaan & Projek Kreatif",
+    "question": "Modal awal yang dikeluarkan oleh seorang siswa SMK untuk usaha kriya kayu bekas adalah Rp10.000.000,00. Pada akhir tahun pertama, usaha tersebut mencatatkan laba bersih sebesar Rp3.500.000,00. Berapa nilai Return on Investment (ROI) dari usaha tersebut?",
+    "options": {
+      "A": "28%",
+      "B": "30%",
+      "C": "35%",
+      "D": "40%",
+      "E": "45%"
+    },
+    "answer": "C",
+    "explanation": "ROI = (Laba Bersih / Total Investasi Modal) x 100% = (3.500.000 / 10.000.000) x 100% = 35%."
+  },
+  {
+    "id": 3,
+    "category": "Kewirausahaan & Projek Kreatif",
+    "question": "Sebuah produk makanan ringan ramah lingkungan mengalami penurunan penjualan. Hasil evaluasi konsumen menunjukkan rasa produk dinilai sangat baik, tetapi kemasan mudah rusak dan tidak kedap udara sehingga produk cepat melempem. Tindakan perbaikan yang paling tepat diprioritaskan adalah…",
+    "options": {
+      "A": "Mengubah komposisi bahan baku",
+      "B": "Menurunkan harga jual produk",
+      "C": "Memperbaiki struktur dan material kemasan",
+      "D": "Menambah varian rasa baru",
+      "E": "Menghentikan proses produksi sementara"
+    },
+    "answer": "C",
+    "explanation": "Masalah utama ada pada kemasan yang mudah rusak/tidak kedap udara, sehingga solusi paling tepat adalah memperbaiki material kemasan."
+  },
+  {
+    "id": 4,
+    "category": "Kewirausahaan & Projek Kreatif",
+    "question": "Dalam perencanaan produksi massal, metode yang digunakan untuk menggabungkan berbagai komponen penyusun menjadi satu barang jadi yang utuh disebut…",
+    "options": {
+      "A": "Pemetaan pasar",
+      "B": "Perakitan produk (Assembly Line)",
+      "C": "Prototipe awal",
+      "D": "Pengujian fleksibilitas",
+      "E": "Segmentasi demografis"
+    },
+    "answer": "B",
+    "explanation": "Perakitan (assembly line) adalah proses penggabungan bagian-bagian komponen menjadi satu produk jadi yang lengkap."
+  },
+  {
+    "id": 5,
+    "category": "Kewirausahaan & Projek Kreatif",
+    "question": "Pengusaha katering online mencatat konsumsi beras harian sebesar 15 kg. Waktu tunggu (lead time) pengiriman beras dari pemasok adalah 4 hari. Jika ditetapkan persediaan pengaman (safety stock) sebesar 10 kg, maka reorder point (titik pemesanan ulang) dilakukan saat sisa persediaan beras mencapai…",
+    "options": {
+      "A": "50 kg",
+      "B": "60 kg",
+      "C": "70 kg",
+      "D": "75 kg",
+      "E": "80 kg"
+    },
+    "answer": "C",
+    "explanation": "ROP = (Kebutuhan Harian x Lead Time) + Safety Stock = (15 kg x 4 hari) + 10 kg = 60 kg + 10 kg = 70 kg."
+  },
+  {
+    "id": 6,
+    "category": "Kewirausahaan & Projek Kreatif",
+    "question": "Hasil survei pasar menunjukkan 60% calon pelanggan membeli sabun cair karena aroma herbal alami, 25% karena manfaat kesehatan kulit, dan 15% karena faktor harga murah. Strategi komunikasi pemasaran yang paling efektif difokuskan pada…",
+    "options": {
+      "A": "Penawaran diskon besar-besaran",
+      "B": "Penekanan aroma alami dan manfaat kulit pada label serta iklan",
+      "C": "Pengurangan takaran produk agar harga lebih rendah",
+      "D": "Pembuatan kemasan berukuran besar",
+      "E": "Penjualan melalui toko grosir konvensional"
+    },
+    "answer": "B",
+    "explanation": "Mayoritas pasar (85% akumulasi) menyukai aroma alami dan manfaat kesehatan, sehingga pesan pemasaran harus menekankan dua faktor utama tersebut."
+  },
+  {
+    "id": 7,
+    "category": "Kewirausahaan & Projek Kreatif",
+    "question": "Tahapan perancangan produk kreatif yang bertujuan untuk menguji kesesuaian fungsi, bentuk, dan ergonomi sebelum diproduksi secara massal adalah pembuatan…",
+    "options": {
+      "A": "Badan usaha",
+      "B": "Proposal kredit",
+      "C": "Prototipe (Sample Model)",
+      "D": "Laporan neraca",
+      "E": "Surat izin usaha"
+    },
+    "answer": "C",
+    "explanation": "Prototipe adalah model kerja awal yang digunakan untuk menguji desain, bentuk, dan kelayakan fungsional sebelum produksi skala penuh."
+  },
+  {
+    "id": 8,
+    "category": "Kewirausahaan & Projek Kreatif",
+    "question": "Sebuah usaha kerajinan kulit sintetis menghasilkan 500 unit produk per bulan. Terjadi kerusakan produk sebanyak 40 unit akibat kesalahan mesin penjahit. Jika kerugian per unit cacat adalah Rp25.000,00 dan biaya perbaikan mesin sebesar Rp400.000,00 mampu menekan produk cacat menjadi 10 unit, berapa nilai penghematan bersihnya?",
+    "options": {
+      "A": "Rp350.000,00",
+      "B": "Rp400.000,00",
+      "C": "Rp750.000,00",
+      "D": "Rp1.000.000,00",
+      "E": "Rp1.150.000,00"
+    },
+    "answer": "A",
+    "explanation": "Kerugian awal = 40 x Rp25.000 = Rp1.000.000. Kerugian baru = 10 x Rp25.000 = Rp250.000. Hemat bruto = Rp750.000. Penghematan bersih = Rp750.000 - Biaya Perbaikan (Rp400.000) = Rp350.000."
+  },
+  {
+    "id": 9,
+    "category": "Kewirausahaan & Projek Kreatif",
+    "question": "Saluran distribusi di mana produsen menjual barang secara langsung kepada konsumen akhir melalui e-commerce pribadi dan media sosial tanpa perantara disebut saluran…",
+    "options": {
+      "A": "Distribusi tak langsung",
+      "B": "Distribusi 0 tingkat (Direct Selling)",
+      "C": "Distribusi 2 tingkat",
+      "D": "Distribusi eksklusif",
+      "E": "Distribusi grosir"
+    },
+    "answer": "B",
+    "explanation": "Distribusi 0 tingkat (saluran langsung) terjadi saat produsen bertransaksi langsung dengan konsumen akhir."
+  },
+  {
+    "id": 10,
+    "category": "Kewirausahaan & Projek Kreatif",
+    "question": "Elemen penting yang wajib dicantumkan pada label produk makanan kemasan sesuai regulasi perlindungan konsumen dan ketentuan hukum usaha adalah…",
+    "options": {
+      "A": "Foto pabrik pembuatan",
+      "B": "Daftar nama seluruh karyawan",
+      "C": "Nama produk, komposisi, tanggal kedaluwarsa, dan izin edar (PIRT/BPOM)",
+      "D": "Riwayat pendidikan pemilik usaha",
+      "E": "Jumlah modal awal usaha"
+    },
+    "answer": "C",
+    "explanation": "Sesuai regulasi BPOM dan UU Perlindungan Konsumen, label makanan wajib mencantumkan identitas produk, komposisi, tanggal kedaluwarsa, dan legalitas edar."
+  },
+  {
+    "id": 11,
+    "category": "Kewirausahaan & Projek Kreatif",
+    "question": "Unsur utama dalam konsep manajemen 6M (Man, Money, Material, Machine, Method, Market) yang bertindak sebagai penggerak utama seluruh aktivitas operasi usaha adalah…",
+    "options": {
+      "A": "Money",
+      "B": "Material",
+      "C": "Man",
+      "D": "Machine",
+      "E": "Market"
+    },
+    "answer": "C",
+    "explanation": "Man (Manusia/SDM) adalah elemen penggerak utama yang mengelola seluruh sumber daya lainnya."
+  },
+  {
+    "id": 12,
+    "category": "Kewirausahaan & Projek Kreatif",
+    "question": "Mengapa perlindungan Hak Kekayaan Intelektual (HAKI), seperti pendaftaran Merek Dagang dan Hak Cipta, sangat penting bagi wirausahawan pemula?",
+    "options": {
+      "A": "Agar usaha dibebaskan dari pajak",
+      "B": "Mencegah peniruan/pembajakan serta memberikan kepastian hukum atas aset tak berwujud",
+      "C": "Menjamin usaha pasti memperoleh bantuan modal pemerintah",
+      "D": "Memudahkan proses impor bahan baku",
+      "E": "Mengurangi biaya operasional produksi"
+    },
+    "answer": "B",
+    "explanation": "HAKI memberikan perlindungan hukum eksklusif agar merek/karya tidak ditiru atau diklaim oleh pihak lain."
+  },
+  {
+    "id": 13,
+    "category": "Kewirausahaan & Projek Kreatif",
+    "question": "Strategi pemasaran berbasis konten (Content Marketing) pada media sosial ditujukan untuk…",
+    "options": {
+      "A": "Memaksa konsumen langsung membeli saat itu juga",
+      "B": "Membangun hubungan, kepercayaan, dan daya tarik merek secara berkelanjutan",
+      "C": "Menghindari pajak usaha online",
+      "D": "Menggantikan peran layanan pelanggan",
+      "E": "Menurunkan harga pasaran kompetitor"
+    },
+    "answer": "B",
+    "explanation": "Content marketing berfokus menyajikan konten bernilai untuk menciptakan engagement, kepercayaan, dan brand awareness jangka panjang."
+  },
+  {
+    "id": 14,
+    "category": "Kewirausahaan & Projek Kreatif",
+    "question": "Sikap wirausaha yang tidak mudah menyerah saat menghadapi kendala operasional atau penurunan penjualan mencerminkan karakteristik…",
+    "options": {
+      "A": "Otoriter",
+      "B": "Resiliensi dan keuletan",
+      "C": "Konsumtif",
+      "D": "Spekulatif",
+      "E": "Pasif"
+    },
+    "answer": "B",
+    "explanation": "Resiliensi adalah kemampuan bangkit kembali dan bertahan di tengah tantangan atau kegagalan bisnis."
+  },
+  {
+    "id": 15,
+    "category": "Kewirausahaan & Projek Kreatif",
+    "question": "Sebuah bisnis jasa servis komputer memiliki biaya tetap Rp5.000.000,00 per bulan. Margin kontribusi tiap pengerjaan servis adalah Rp100.000,00. Berapa unit jasa servis yang harus dikerjakan per bulan untuk mencapai BEP?",
+    "options": {
+      "A": "20 unit",
+      "B": "30 unit",
+      "C": "40 unit",
+      "D": "50 unit",
+      "E": "100 unit"
+    },
+    "answer": "D",
+    "explanation": "BEP (unit) = Biaya Tetap / Margin Kontribusi per Unit = 5.000.000 / 100.000 = 50 unit."
+  },
+  {
+    "id": 16,
+    "category": "Kewirausahaan & Projek Kreatif",
+    "question": "Apabila sebuah usaha fashion ingin menjangkau pasar anak muda berpendapatan menengah ke atas yang mengutamakan tren terkini, usaha tersebut sedang menerapkan langkah…",
+    "options": {
+      "A": "Diversifikasi modal",
+      "B": "Segmentasi dan penentuan target pasar (Targeting)",
+      "C": "Evaluasi harga pokok penjualan",
+      "D": "Pembentukan holding perusahaan",
+      "E": "Likuidasi aset"
+    },
+    "answer": "B",
+    "explanation": "Menentukan segmen konsumen spesifik berdasarkan demografi, psikografi, dan ekonomi adalah bagian dari targeting."
+  },
+  {
+    "id": 17,
+    "category": "Kewirausahaan & Projek Kreatif",
+    "question": "Analisis SWOT digunakan untuk memetakan kondisi usaha. Faktor internal berupa keunggulan spesifik yang dimiliki perusahaan dibanding pesaing disebut…",
+    "options": {
+      "A": "Opportunities",
+      "B": "Threats",
+      "C": "Strengths",
+      "D": "Weaknesses",
+      "E": "Technical Errors"
+    },
+    "answer": "C",
+    "explanation": "Strengths (Kekuatan) merupakan faktor internal positif dan keunggulan kompetitif yang dimiliki usaha."
+  },
+  {
+    "id": 18,
+    "category": "Kewirausahaan & Projek Kreatif",
+    "question": "Di bawah ini yang merupakan tindakan pengelolaan keuangan usaha yang bijak adalah…",
+    "options": {
+      "A": "Menyatukan rekening pribadi pemilik dengan rekening kas operasional usaha",
+      "B": "Menggunakan seluruh pendapatan kotor untuk keperluan konsumsi pribadi",
+      "C": "Memisahkan pembukuan keuangan pribadi dan kas usaha serta mencatat transaksi secara rinci",
+      "D": "Mengabaikan catatan pengeluaran kecil",
+      "E": "Membeli aset tetap secara berlebihan di awal pendirian usaha"
+    },
+    "answer": "C",
+    "explanation": "Prinsip dasar entitas ekonomi mengharuskan pemisahan tegas antara keuangan pribadi pemilik dan modal/kas usaha."
+  },
+  {
+    "id": 19,
+    "category": "Kewirausahaan & Projek Kreatif",
+    "question": "Bentuk kolaborasi di mana dua merek lokal bergabung untuk menciptakan produk edisi terbatas guna meluas jangkauan pelanggan disebut strategi…",
+    "options": {
+      "A": "Horizontal Integration",
+      "B": "Brand Co-Branding / Kemitraan Strategis",
+      "C": "Monopoli pasar",
+      "D": "Downsizing usaha",
+      "E": "Vendor Lock-in"
+    },
+    "answer": "B",
+    "explanation": "Co-branding adalah kemitraan dua atau lebih merek untuk meluncurkan produk gabungan."
+  },
+  {
+    "id": 20,
+    "category": "Kewirausahaan & Projek Kreatif",
+    "question": "Proses uji coba produk oleh pengguna akhir (Beta Testing) bertujuan untuk…",
+    "options": {
+      "A": "Mengukur jumlah modal yang tersisa",
+      "B": "Memvalidasi manfaat dan mendapatkan umpan balik atas kekurangan fungsional produk",
+      "C": "Menentukan jumlah gaji direksi",
+      "D": "Membuat laporan perpajakan",
+      "E": "Menutup saluran distribusi lama"
+    },
+    "answer": "B",
+    "explanation": "Beta testing memberikan masukan nyata dari calon konsumen untuk perbaikan sebelum rilis publik."
+  },
+  {
+    "id": 21,
+    "category": "Kewirausahaan & Projek Kreatif",
+    "question": "Salah satu risiko finansial terbesar bagi usaha skala mikro-kecil saat mengalami ekspansi terlalu cepat adalah…",
+    "options": {
+      "A": "Kekurangan tenaga kerja terampil",
+      "B": "Krisis arus kas (Cash Flow Crunch) akibat piutang tertahan atau pengeluaran modal melebih pendapatan",
+      "C": "Kelebihan kapasitas simpan gudang",
+      "D": "Terlalu banyak varian produk",
+      "E": "Penurunan biaya sewa tempat"
+    },
+    "answer": "B",
+    "explanation": "Overtrading atau ekspansi terlalu kencang tanpa cadangan modal yang cukup sering kali memicu krisis likuiditas/kas."
+  },
+  {
+    "id": 22,
+    "category": "Kewirausahaan & Projek Kreatif",
+    "question": "Dalam penyusunan Proposal Usaha (Business Plan), rincian mengenai proyeksi pendapatan, perhitungan modal kerja, dan arus kas masuk/keluar terdapat pada aspek…",
+    "options": {
+      "A": "Pemasaran",
+      "B": "Organisasi dan SDM",
+      "C": "Keuangan (Financial Plan)",
+      "D": "Deskripsi Produk",
+      "E": "Legalitas Usaha"
+    },
+    "answer": "C",
+    "explanation": "Aspek keuangan memuat estimasi modal, proyeksi laba rugi, HPP, BEP, dan proyeksi cash flow."
+  },
+  {
+    "id": 23,
+    "category": "Kewirausahaan & Projek Kreatif",
+    "question": "Sebuah usaha kuliner memanfaatkan ulasan bintang dan testimoni video dari pelanggan di media sosial sebagai alat promosi. Jenis bukti sosial ini dinamakan…",
+    "options": {
+      "A": "Corporate Social Responsibility (CSR)",
+      "B": "User Generated Content (UGC) / Testimonial Marketing",
+      "C": "Hard Selling",
+      "D": "Cold Calling",
+      "E": "Above The Line Marketing"
+    },
+    "answer": "B",
+    "explanation": "Konten yang dibuat langsung oleh konsumen berupa pengalaman atau testimoni dikenal sebagai UGC."
+  },
+  {
+    "id": 24,
+    "category": "Kewirausahaan & Projek Kreatif",
+    "question": "Indikator utama yang menunjukkan bahwa sebuah produk telah mencapai kondisi 'Product-Market Fit' adalah…",
+    "options": {
+      "A": "Jumlah produk diproduksi dalam jumlah sangat besar",
+      "B": "Tingkat pembelian ulang (repeat order) dan kepuasan pelanggan tinggi secara konsisten",
+      "C": "Biaya iklan melampaui omzet bulanan",
+      "D": "Memiliki izin usaha dari berbagai negara",
+      "E": "Perusahaan tidak memiliki kompetitor sama sekali"
+    },
+    "answer": "B",
+    "explanation": "Product-Market Fit terjadi saat pasar menyerap produk dengan baik dan diiringi tingkat retensi/repeat order yang tinggi."
+  },
+  {
+    "id": 25,
+    "category": "Kewirausahaan & Projek Kreatif",
+    "question": "Pengolahan limbah organik sisa produksi menjadi pupuk kompos yang memiliki nilai jual kembali merupakan penerapan prinsip bisnis…",
+    "options": {
+      "A": "Linear Economy",
+      "B": "Circular Economy (Ekonomi Sirkular)",
+      "C": "Fast Industry",
+      "D": "Predatory Pricing",
+      "E": "Konsumtif"
+    },
+    "answer": "B",
+    "explanation": "Ekonomi sirkular berfokus pada daur ulang limbah produksi agar memiliki nilai guna dan ekonomi kembali tanpa terbuang membebani lingkungan."
+  },
+  {
+    "id": 26,
+    "category": "Ekonomi Makro & Mikro",
+    "question": "Diketahui fungsi permintaan suatu barang di pasar dinyatakan dengan Qd = 40 - 2P. Pada saat harga P = 10, maka jumlah barang yang diminta adalah…",
+    "options": {
+      "A": "10 unit",
+      "B": "15 unit",
+      "C": "20 unit",
+      "D": "25 unit",
+      "E": "30 unit"
+    },
+    "answer": "C",
+    "explanation": "Substitusikan P = 10 ke persamaan: Qd = 40 - 2(10) = 40 - 20 = 20 unit."
+  },
+  {
+    "id": 27,
+    "category": "Ekonomi Makro & Mikro",
+    "question": "Apabila kenaikan harga suatu barang sebesar 10% mengakibatkan penurunan jumlah barang yang diminta sebesar 20%, maka sifat koefisien elastisitas permintaannya adalah…",
+    "options": {
+      "A": "Inelastis (E < 1)",
+      "B": "Elastis (E > 1)",
+      "C": "Elastis Uniter (E = 1)",
+      "D": "Inelastis Sempurna (E = 0)",
+      "E": "Elastis Sempurna (E = ∞)"
+    },
+    "answer": "B",
+    "explanation": "Ed = % perubahan kuantitas / % perubahan harga = |-20% / 10%| = 2. Karena E > 1, maka permintaannya bersifat elastis."
+  },
+  {
+    "id": 28,
+    "category": "Ekonomi Makro & Mikro",
+    "question": "Masalah pokok ekonomi modern yang dihadapi oleh setiap produsen mencakup tiga pertanyaan utama, yaitu…",
+    "options": {
+      "A": "What, How, dan For Whom",
+      "B": "Why, Where, dan When",
+      "C": "Who, How, dan How Much",
+      "D": "What, When, dan Why",
+      "E": "For Whom, Where, dan Why"
+    },
+    "answer": "A",
+    "explanation": "Masalah pokok ekonomi modern terdiri dari: Barang apa yang diproduksi (What), Bagaimana memproduksi (How), dan Untuk siapa diproduksi (For Whom)."
+  },
+  {
+    "id": 29,
+    "category": "Ekonomi Makro & Mikro",
+    "question": "Berdasarkan teori kepuasan konsumen pendekatan kardinal, kepuasan tambahan yang diperoleh konsumen dari setiap tambahan satu unit barang yang dikonsumsi disebut…",
+    "options": {
+      "A": "Total Utility",
+      "B": "Average Utility",
+      "C": "Marginal Utility",
+      "D": "Opportunity Cost",
+      "E": "Production Function"
+    },
+    "answer": "C",
+    "explanation": "Marginal Utility (MU) adalah perubahan tingkat kepuasan total akibat tambahan konsumsi satu unit barang."
+  },
+  {
+    "id": 30,
+    "category": "Ekonomi Makro & Mikro",
+    "question": "Perhatikan data pendapatan nasional suatu negara (dalam triliun Rupiah):\n- PDB (GDP): Rp1.500\n- Pendapatan warga negara di luar negeri: Rp100\n- Pendapatan WNA di dalam negeri: Rp150\n- Penyusutan (Depresiasi): Rp50\nBerapa besar Produk Nasional Bruto (PNB / GNP) negara tersebut?",
+    "options": {
+      "A": "Rp1.400 Triliun",
+      "B": "Rp1.450 Triliun",
+      "C": "Rp1.500 Triliun",
+      "D": "Rp1.550 Triliun",
+      "E": "Rp1.600 Triliun"
+    },
+    "answer": "B",
+    "explanation": "GNP = GDP + Pendapatan WN di luar negeri - Pendapatan WNA di dalam negeri = 1.500 + 100 - 150 = 1.450 Triliun."
+  },
+  {
+    "id": 31,
+    "category": "Ekonomi Makro & Mikro",
+    "question": "Ketika perekonomian mengalami laju inflasi yang sangat tinggi, Bank Sentral dapat menerapkan kebijakan moneter kontraktif berupa…",
+    "options": {
+      "A": "Menurunkan suku bunga acuan",
+      "B": "Membeli surat-surat berharga pemerintah",
+      "C": "Menaikkan tingkat suku bunga dan giro wajib minimum bank umum",
+      "D": "Mempermudah pemberian kredit kepada masyarakat",
+      "E": "Menurunkan rasio cadangan kas bank"
+    },
+    "answer": "C",
+    "explanation": "Kebijakan moneter ketat (kontraktif) untuk mengatasi inflasi dilakukan dengan menaikkan suku bunga acuan (Discount Policy) dan menaikkan cadangan kas minimum (Cash Ratio)."
+  },
+  {
+    "id": 32,
+    "category": "Ekonomi Makro & Mikro",
+    "question": "Manakah instrumen kebijakan fiskal yang dapat digunakan pemerintah untuk menstimulus pertumbuhan ekonomi saat terjadi resesi?",
+    "options": {
+      "A": "Menaikkan tarif pajak pendapatan dan memotong pengeluaran negara",
+      "B": "Menurunkan tarif pajak dan meningkatkan pengeluaran pemerintah untuk infrastruktur",
+      "C": "Menjual obligasi negara ke masyarakat luas",
+      "D": "Membatasi anggaran belanja sektor publik",
+      "E": "Menghapuskan bantuan sosial"
+    },
+    "answer": "B",
+    "explanation": "Kebijakan fiskal ekspansif saat resesi dilakukan dengan memotong pajak dan membesar anggaran pengeluaran negara."
+  },
+  {
+    "id": 33,
+    "category": "Ekonomi Makro & Mikro",
+    "question": "Pergeseran kurva penawaran ke arah kanan (menambah penawaran) dapat disebabkan oleh faktor…",
+    "options": {
+      "A": "Kenaikan harga bahan baku produksi",
+      "B": "Peningkatan teknologi produksi yang lebih efisien",
+      "C": "Kenaikan pajak perusahaan",
+      "D": "Penurunan jumlah produsen di pasar",
+      "E": "Kenaikan upah minimum tenaga kerja"
+    },
+    "answer": "B",
+    "explanation": "Kemajuan teknologi menekan biaya produksi dan meningkatkan output, sehingga menggeser kurva penawaran ke kanan."
+  },
+  {
+    "id": 34,
+    "category": "Ekonomi Makro & Mikro",
+    "question": "Indikator harga yang paling umum digunakan oleh Badan Pusat Statistik (BPS) untuk mengukur tingkat inflasi konsumen bulanan adalah…",
+    "options": {
+      "A": "Indeks Harga Perdagangan Besar (IHPB)",
+      "B": "Indeks Harga Konsumen (IHK)",
+      "C": "PDB Deflator",
+      "D": "Indeks Nilai Tukar Petani (NTP)",
+      "E": "Indeks Harga Saham Gabungan (IHSG)"
+    },
+    "answer": "B",
+    "explanation": "Inflasi di Indonesia secara resmi dihitung berdasarkan perubahan persentase Indeks Harga Konsumen (IHK)."
+  },
+  {
+    "id": 35,
+    "category": "Ekonomi Makro & Mikro",
+    "question": "Jika harga daging ayam naik secara signifikan dan menyebabkan permintaan terhadap daging sapi meningkat, maka hubungan antara daging ayam dan daging sapi bersifat…",
+    "options": {
+      "A": "Komplementer (Saling melengkapi)",
+      "B": "Substitusi (Saling menggantikan)",
+      "C": "Inferior",
+      "D": "Bebas/Netral",
+      "E": "Giffen"
+    },
+    "answer": "B",
+    "explanation": "Jika kenaikan harga barang A memicu kenaikan permintaan barang B, kedua barang tersebut saling menggantikan (substitusi)."
+  },
+  {
+    "id": 36,
+    "category": "Ekonomi Makro & Mikro",
+    "question": "Pemegang kekuasaan tertinggi dalam struktur organisasi koperasi sesuai dengan UU Perkoperasian Indonesia berada pada…",
+    "options": {
+      "A": "Rapat Anggota",
+      "B": "Pengurus Koperasi",
+      "C": "Dewan Pengawas",
+      "D": "Manajer Operasional",
+      "E": "Dinas Koperasi dan UMKM"
+    },
+    "answer": "A",
+    "explanation": "Rapat Anggota merupakan wadah pengambil keputusan tertinggi dalam pengelolaan koperasi."
+  },
+  {
+    "id": 37,
+    "category": "Ekonomi Makro & Mikro",
+    "question": "Ciri utama dari struktur pasar persaingan sempurna adalah…",
+    "options": {
+      "A": "Hanya ada satu penjual menguasai pasar",
+      "B": "Terdapat banyak penjual dan pembeli, serta barang yang diperjualbelikan bersifat homogen",
+      "C": "Produk yang dijual bervariasi dan memiliki merek kuat",
+      "D": "Terdapat hambatan tinggi untuk masuk ke dalam pasar",
+      "E": "Penjual bertindak sebagai price maker"
+    },
+    "answer": "B",
+    "explanation": "Pasar persaingan sempurna dicirikan oleh jumlah pembeli/penjual yang banyak dan barang identik (homogen)."
+  },
+  {
+    "id": 38,
+    "category": "Ekonomi Makro & Mikro",
+    "question": "Hukum Hasil yang Semakin Berkurang (The Law of Diminishing Returns) mulai berlaku dalam proses produksi apabila…",
+    "options": {
+      "A": "Penggunaan satu input variabel ditambah terus-menerus sedangkan input tetap konstan, sehingga Marginal Product (MP) mulai menurun",
+      "B": "Seluruh input ditambahkan secara proporsional",
+      "C": "Total produksi mencapai titik nol",
+      "D": "Biaya tetap mengalami kenaikan dua kali lipat",
+      "E": "Tenaga kerja dikurangi secara drastis"
+    },
+    "answer": "A",
+    "explanation": "Law of Diminishing Returns menyatakan bahwa penambahan satu faktor produksi variabel pada faktor tetap secara terus-menerus akan menurunkan produk marginal."
+  },
+  {
+    "id": 39,
+    "category": "Ekonomi Makro & Mikro",
+    "question": "Kondisi neraca perdagangan suatu negara dinyatakan defisit apabila…",
+    "options": {
+      "A": "Nilai ekspor barang/jasa lebih besar dari nilai impor",
+      "B": "Nilai impor barang/jasa lebih besar dari nilai ekspor",
+      "C": "Nilai ekspor sama persis dengan nilai impor",
+      "D": "Penerimaan cadangan devisa meningkat pesat",
+      "E": "Penerimaan hibah luar negeri melonjak"
+    },
+    "answer": "B",
+    "explanation": "Neraca perdagangan defisit artinya total pengeluaran untuk impor lebih besar daripada penerimaan dari ekspor."
+  },
+  {
+    "id": 40,
+    "category": "Ekonomi Makro & Mikro",
+    "question": "Pembayaran gaji karyawan dalam sistem pencatatan akuntansi akan mempengaruhi persamaan dasar akuntansi pada akun…",
+    "options": {
+      "A": "Kas berkurang dan Modal berkurang",
+      "B": "Kas bertambah dan Beban berkurang",
+      "C": "Piutang bertambah dan Modal berkurang",
+      "D": "Perlengkapan berkurang dan Kas bertambah",
+      "E": "Kewajiban bertambah dan Kas bertambah"
+    },
+    "answer": "A",
+    "explanation": "Pembayaran beban gaji mengurangi aktiva/kas sekaligus mengurangi modal (melalui beban)."
+  },
+  {
+    "id": 41,
+    "category": "Ekonomi Makro & Mikro",
+    "question": "Pembangunan ekonomi berbeda dengan pertumbuhan ekonomi karena pembangunan ekonomi menekankan pada…",
+    "options": {
+      "A": "Kenaikan angka PDB nominal semata tanpa melihat populasi",
+      "B": "Perubahan struktur ekonomi, pemerataan pendapatan, dan peningkatan kualitas hidup",
+      "C": "Jumlah fisik barang yang diproduksi oleh industri berat",
+      "D": "Peningkatan utang luar negeri untuk pembiayaan anggaran",
+      "E": "Tingkat eksploitasi sumber daya alam secara maksimal"
+    },
+    "answer": "B",
+    "explanation": "Pertumbuhan hanya mengukur output fisik/PDB, sedangkan pembangunan mencakup aspek kualitatif seperti struktur ekonomi, kesejahteraan, dan kualitas hidup."
+  },
+  {
+    "id": 42,
+    "category": "Ekonomi Makro & Mikro",
+    "question": "Pengangguran yang terjadi akibat adanya ketidaksesuaian antara keterampilan yang dimiliki pekerja dengan kualifikasi yang dibutuhkan oleh lapangan kerja baru disebut pengangguran…",
+    "options": {
+      "A": "Frikional",
+      "B": "Struktural",
+      "C": "Siklis (Konjungtur)",
+      "D": "Musiman",
+      "E": "Volunter"
+    },
+    "answer": "B",
+    "explanation": "Pengangguran struktural terjadi karena perubahan struktur ekonomi yang menimbulkan mismatch antara kualifikasi pencari kerja dan syarat pasar kerja."
+  },
+  {
+    "id": 43,
+    "category": "Ekonomi Makro & Mikro",
+    "question": "Lembaga independen di Indonesia yang bertugas mengatur, mengawasi kegiatan jasa keuangan di sektor perbankan, pasar modal, dan sektor keuangan non-bank adalah…",
+    "options": {
+      "A": "Bank Indonesia (BI)",
+      "B": "Otoritas Jasa Keuangan (OJK)",
+      "C": "Kementerian Keuangan",
+      "D": "Lembaga Penjamin Simpanan (LPS)",
+      "E": "Badan Pemeriksa Keuangan (BPK)"
+    },
+    "answer": "B",
+    "explanation": "OJK adalah lembaga independen yang mengatur dan mengawasi seluruh aktivitas sektor jasa keuangan di Indonesia."
+  },
+  {
+    "id": 44,
+    "category": "Ekonomi Makro & Mikro",
+    "question": "Jika nilai elastisitas pendapatan dari permintaan suatu barang bernilai positif dan lebih besar dari 1 (Ey > 1), maka barang tersebut dikategorikan sebagai…",
+    "options": {
+      "A": "Barang Kebutuhan Pokok (Primer)",
+      "B": "Barang Inferior",
+      "C": "Barang Mewah (Luks)",
+      "D": "Barang Giffen",
+      "E": "Barang Bebas"
+    },
+    "answer": "C",
+    "explanation": "Elastisitas pendapatan Ey > 1 menunjukkan bahwa peningkatan pendapatan menyebabkan kenaikan permintaan yang lebih tinggi secara proporsional (Barang Mewah)."
+  },
+  {
+    "id": 45,
+    "category": "Ekonomi Makro & Mikro",
+    "question": "Diketahui fungsi penawaran Qs = -10 + 2P dan fungsi permintaan Qd = 50 - 4P. Harga keseimbangan (P) pasar terjadi pada…",
+    "options": {
+      "A": "P = 5",
+      "B": "P = 10",
+      "C": "P = 12",
+      "D": "P = 15",
+      "E": "P = 20"
+    },
+    "answer": "B",
+    "explanation": "Keseimbangan: Qs = Qd => -10 + 2P = 50 - 4P => 6P = 60 => P = 10."
+  },
+  {
+    "id": 46,
+    "category": "Ekonomi Makro & Mikro",
+    "question": "Kebijakan pemerintah menetapkan harga eceran tertinggi (Price Ceiling) di bawah harga keseimbangan pasar bertujuan untuk…",
+    "options": {
+      "A": "Melindungi produsen dari kerugian",
+      "B": "Melindungi konsumen agar mampu membeli barang kebutuhan pokok dengan harga terjangkau",
+      "C": "Mendorong timbulnya pasar gelap (black market)",
+      "D": "Meningkatkan penerimaan pajak negara",
+      "E": "Membatasi jumlah barang yang masuk dari luar negeri"
+    },
+    "answer": "B",
+    "explanation": "Price Ceiling (harga maksimum) diterapkan untuk menjaga agar harga barang pokok tetap ramah di kantong konsumen."
+  },
+  {
+    "id": 47,
+    "category": "Ekonomi Makro & Mikro",
+    "question": "Pencatatan transaksi pembelian peralatan kantor secara kredit senilai Rp5.000.000,00 dalam jurnal umum akuntansi yang benar adalah…",
+    "options": {
+      "A": "Peralatan (D) Rp5.000.000 ; Kas (K) Rp5.000.000",
+      "B": "Peralatan (D) Rp5.000.000 ; Utang Usaha (K) Rp5.000.000",
+      "C": "Perlengkapan (D) Rp5.000.000 ; Kas (K) Rp5.000.000",
+      "D": "Beban Peralatan (D) Rp5.000.000 ; Utang Usaha (K) Rp5.000.000",
+      "E": "Utang Usaha (D) Rp5.000.000 ; Peralatan (K) Rp5.000.000"
+    },
+    "answer": "B",
+    "explanation": "Pembelian aset bertambah di Debit (Peralatan) dan kewajiban bertambah di Kredit (Utang Usaha)."
+  },
+  {
+    "id": 48,
+    "category": "Ekonomi Makro & Mikro",
+    "question": "Perhatikan fungsi konsumsi masyarakat C = 200 + 0,75Y. Jika tingkat pendapatan nasional (Y) sebesar Rp1.000 Triliun, maka besarnya tabungan (S) masyarakat adalah…",
+    "options": {
+      "A": "Rp50 Triliun",
+      "B": "Rp100 Triliun",
+      "C": "Rp950 Triliun",
+      "D": "Rp500 Triliun",
+      "E": "Rp250 Triliun"
+    },
+    "answer": "A",
+    "explanation": "C = 200 + 0.75(1.000) = 200 + 750 = 950. Tabungan (S) = Y - C = 1.000 - 950 = 50 Triliun."
+  },
+  {
+    "id": 49,
+    "category": "Ekonomi Makro & Mikro",
+    "question": "Perusahaan yang menguasai seluruh pasokan bahan baku vital dan menjadi satu-satunya penyedia tanpa ada barang pengganti yang dekat disebut pasar…",
+    "options": {
+      "A": "Oligopoli",
+      "B": "Monopoli",
+      "C": "Monopsoni",
+      "D": "Persaingan Monopolistis",
+      "E": "Duopoli"
+    },
+    "answer": "B",
+    "explanation": "Pasar monopoli terdiri dari hanya satu produsen/penjual tunggal yang mengendalikan seluruh penawaran pasar."
+  },
+  {
+    "id": 50,
+    "category": "Ekonomi Makro & Mikro",
+    "question": "Penerapan tarif bea masuk yang tinggi terhadap barang impor bertujuan untuk…",
+    "options": {
+      "A": "Mendorong masyarakat membeli barang impor",
+      "B": "Melindungi produk dalam negeri dari persaingan barang impor yang lebih murah",
+      "C": "Memperkecil penerimaan kas negara",
+      "D": "Menurunkan harga barang impor di dalam negeri",
+      "E": "Menghilangkan kuota impor"
+    },
+    "answer": "B",
+    "explanation": "Tarif bea masuk menaikkan harga jual barang impor sehingga produk lokal dapat bersaing."
+  }
+]
